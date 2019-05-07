@@ -2,6 +2,8 @@
 
 Oenophilia is a simple React web application made for users to find their recommended food and wine pairing. Users are able to select the food type they are currently having, and the web application will recommend some wine varietals for the users. Users can then select that they chose this pairing for their food and write a review if they wish to.
 
+![](https://media.giphy.com/media/lp1ZvMyVRO9bPAvhZl/source.gif)
+
 ## Libraries 
 - [create-react-app](https://github.com/facebook/create-react-app)
 - [Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React) is used for styling
